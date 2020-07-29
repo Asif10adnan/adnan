@@ -1,0 +1,64 @@
+.head-colour{
+     color:blue;
+     }
+.h{
+   color:brown;
+   }
+body{
+     font-family:sans-serif ;
+     color:purple;
+     line-height: 30px;
+     }
+.float{
+     width:50%;
+     float:left;
+     }
+.rf{
+    width: 90%;
+    padding: 5%;
+    }
+.btn{
+    color: white;
+    background-color: blue;
+    padding:10px 40px 10px 40px ;
+    border-radius:30px ;
+    text-decoration: none;
+    }
+h1 {
+    font-size: 30px;
+    line-height: 30px;}
+.con{
+  
+    display: inline-block;
+    }
+#hd{
+    color:red;}
+.dream{
+    line-height: 30px ;
+    font-size:15px;
+}
+.experience{
+    color: black;
+    margin:5px;
+    padding-top: 2px;
+    padding-bottom: 20px;
+    padding-left:5px ;
+    background-color: pink;
+    border-radius:20px;
+    }
+.ex{
+    color: purple;
+    border-bottom:2px solid purple;
+    padding-right: 5px;}
+.f{
+   color: black;
+   font-size: 10px;}
+
+
+    
+    
+    
+    
+    
+    
+    
