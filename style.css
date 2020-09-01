@@ -12,6 +12,7 @@ body{
 .float{
      width:50%;
      float:left;
+     font-size:18px;
      }
 .rf{
     width: 90%;
